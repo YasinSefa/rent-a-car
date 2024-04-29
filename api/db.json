@@ -1,0 +1,416 @@
+{
+    "users": [
+        {
+            "name": "John",
+            "surname": "Doe",
+            "email": "john.doe@example.com",
+            "password": "johndoe123",
+            "id": "c483"
+        },
+        {
+            "name": "Jane",
+            "surname": "Smith",
+            "email": "jane.smith@example.com",
+            "password": "janesmith456",
+            "id": "9c5d"
+        },
+        {
+            "name": "Michael",
+            "surname": "Johnson",
+            "email": "michael.johnson@example.com",
+            "password": "michaeljohn789",
+            "id": "b5b9"
+        },
+        {
+            "name": "Emily",
+            "surname": "Brown",
+            "email": "emily.brown@example.com",
+            "password": "emilybrown012",
+            "id": "d6ac"
+        },
+        {
+            "name": "David",
+            "surname": "Taylor",
+            "email": "david.taylor@example.com",
+            "password": "davidtaylor345",
+            "id": "8f75"
+        },
+        {
+            "name": "Olivia",
+            "surname": "Anderson",
+            "email": "olivia.anderson@example.com",
+            "password": "oliviaand678",
+            "id": "94a0"
+        },
+        {
+            "name": "Daniel",
+            "surname": "Thomas",
+            "email": "daniel.thomas@example.com",
+            "password": "danielthomas901",
+            "id": "83cb"
+        },
+        {
+            "name": "Sophia",
+            "surname": "Wilson",
+            "email": "sophia.wilson@example.com",
+            "password": "sophiawil234",
+            "id": "760a"
+        },
+        {
+            "name": "Matthew",
+            "surname": "White",
+            "email": "matthew.white@example.com",
+            "password": "matthewwhi567",
+            "id": "a449"
+        },
+        {
+            "name": "Chloe",
+            "surname": "Harris",
+            "email": "chloe.harris@example.com",
+            "password": "chloehar890",
+            "id": "cf60"
+        },
+        {
+            "name": "Andrew",
+            "surname": "Martin",
+            "email": "andrew.martin@example.com",
+            "password": "andrewmar123",
+            "id": "760d"
+        },
+        {
+            "name": "Ella",
+            "surname": "Thompson",
+            "email": "ella.thompson@example.com",
+            "password": "ellathom456",
+            "id": "32b3"
+        },
+        {
+            "name": "Joshua",
+            "surname": "Garcia",
+            "email": "joshua.garcia@example.com",
+            "password": "joshuagar789",
+            "id": "19a6"
+        },
+        {
+            "name": "Sofia",
+            "surname": "Lee",
+            "email": "sofia.lee@example.com",
+            "password": "sofiale012",
+            "id": "02b6"
+        },
+        {
+            "name": "Christopher",
+            "surname": "Clark",
+            "email": "christopher.clark@example.com",
+            "password": "christophcl345",
+            "id": "fcd9"
+        },
+        {
+            "name": "Ava",
+            "surname": "Rodriguez",
+            "email": "ava.rodriguez@example.com",
+            "password": "avarodri678",
+            "id": "bd75"
+        },
+        {
+            "name": "Andrew",
+            "surname": "Lewis",
+            "email": "andrew.lewis@example.com",
+            "password": "andrewlew901",
+            "id": "3bb9"
+        },
+        {
+            "name": "Abigail",
+            "surname": "Walker",
+            "email": "abigail.walker@example.com",
+            "password": "abigailwal234",
+            "id": "540c"
+        },
+        {
+            "name": "Matthew",
+            "surname": "Hall",
+            "email": "matthew.hall@example.com",
+            "password": "matthewhal567",
+            "id": "c8ba"
+        },
+        {
+            "id": "d462"
+        },
+        {
+            "id": "d6d4"
+        },
+        {
+            "id": "6e67",
+            "email": "",
+            "password": ""
+        },
+        {
+            "id": "b52e",
+            "email": "asd",
+            "password": "asd"
+        },
+        {
+            "id": "5bf4",
+            "email": "john.doe@example.com",
+            "password": "johndoe123"
+        },
+        {
+            "id": "4c28",
+            "email": "john.doe@example.com",
+            "password": "johndoe123"
+        },
+        {
+            "id": "92a1",
+            "email": "asdasdasd",
+            "password": "asdsadasd"
+        },
+        {
+            "id": "75eb",
+            "email": "dsa",
+            "password": "ads"
+        },
+        {
+            "id": "9b29",
+            "email": "dasasdasdsa",
+            "password": "dsadsadasdasdsa"
+        },
+        {
+            "id": "c01e",
+            "email": "dasasdas",
+            "password": "dasdsadwas"
+        },
+        {
+            "id": "7c99",
+            "email": "asdsadsadsa",
+            "password": "dsadas"
+        },
+        {
+            "id": "242e",
+            "email": "asdsadsad",
+            "password": "dasdsadsadsa"
+        },
+        {
+            "id": "7b3d",
+            "email": "aaa",
+            "password": "aaa"
+        },
+        {
+            "id": "5989",
+            "email": "as",
+            "password": "as",
+            "name": "",
+            "surname": ""
+        },
+        {
+            "id": "9b50",
+            "name": "asas",
+            "surname": "asas",
+            "email": "asas",
+            "password": "asas"
+        },
+        {
+            "id": "1f48",
+            "name": "Sefa",
+            "surname": "Aksoy",
+            "email": "a",
+            "password": "a"
+        }
+    ],
+    "cars": [
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Citan",
+            "year": "2010",
+            "price": "10000",
+            "km": "150000",
+            "gear": "Otomatik",
+            "fueltype": "Dizel",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Siyah",
+            "id": "de82",
+            "location": "Adana"
+        },
+        {
+            "brand": "Lexus",
+            "model": "GX",
+            "year": "2020",
+            "price": "50000",
+            "km": "20000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Siyah",
+            "id": "5884",
+            "location": "Adana"
+        },
+        {
+            "brand": "Toyota",
+            "model": "RAV4",
+            "year": "2015",
+            "price": "15000",
+            "km": "80000",
+            "gear": "Manuel",
+            "fueltype": "Hybrid",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Gri",
+            "id": "37c1",
+            "location": "Adana"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "Grand i10 Nios",
+            "year": "2018",
+            "price": "30000",
+            "km": "60000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Beyaz",
+            "id": "025b",
+            "location": "Istanbul"
+        },
+        {
+            "brand": "Honda",
+            "model": "Civic",
+            "year": "2010",
+            "price": "25000",
+            "km": "120000",
+            "gear": "Otomatik",
+            "fueltype": "Dizel",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Mavi",
+            "id": "d847",
+            "location": "Istanbul"
+        },
+        {
+            "brand": "Ford",
+            "model": "Focus",
+            "year": "2019",
+            "price": "20000",
+            "km": "45000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Mavi",
+            "id": "5cbf",
+            "location": "Adana"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "year": "2017",
+            "price": "18000",
+            "km": "60000",
+            "gear": "Manuel",
+            "fueltype": "Dizel",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Beyaz",
+            "id": "c8bb",
+            "location": "Istanbul"
+        },
+        {
+            "brand": "BMW",
+            "model": "3 Series",
+            "year": "2016",
+            "price": "25000",
+            "km": "70000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Siyah",
+            "id": "5b4f",
+            "location": "Adana"
+        },
+        {
+            "brand": "Audi",
+            "model": "A4",
+            "year": "2018",
+            "price": "30000",
+            "km": "55000",
+            "gear": "Otomatik",
+            "fueltype": "Dizel",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Beyaz",
+            "id": "5ec1",
+            "location": "Istanbul"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Cruze",
+            "year": "2015",
+            "price": "15000",
+            "km": "80000",
+            "gear": "Manuel",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Beyaz",
+            "id": "fbcd",
+            "location": "Adana"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Sentra",
+            "year": "2014",
+            "price": "12000",
+            "km": "90000",
+            "gear": "Manuel",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Gri",
+            "id": "a41c",
+            "location": "Istanbul"
+        },
+        {
+            "brand": "Mazda",
+            "model": "3",
+            "year": "2017",
+            "price": "18000",
+            "km": "70000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Beyaz",
+            "id": "a386",
+            "location": "Adana"
+        },
+        {
+            "brand": "Subaru",
+            "model": "Impreza",
+            "year": "2016",
+            "price": "22000",
+            "km": "65000",
+            "gear": "Manuel",
+            "fueltype": "Dizel",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Siyah",
+            "id": "89ea",
+            "location": "Istanbul"
+        },
+        {
+            "brand": "Kia",
+            "model": "Rio",
+            "year": "2019",
+            "price": "19000",
+            "km": "40000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Mavi",
+            "id": "d1b3",
+            "location": "Adana"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "Elantra",
+            "year": "2017",
+            "price": "17000",
+            "km": "75000",
+            "gear": "Otomatik",
+            "fueltype": "Benzin",
+            "image": "https://s3-alpha-sig.figma.com/img/dae8/47aa/62f6ded8ef242419f05689d03e234240?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XicnG4cDCOkLjriW1T0R-r3KkzQJA5UR16a-GFET0U8BSevgqGSYhrOwJxwI~TDqlsYKwRRaI5gkAMTsDZRoAkTFtvhcfG8ix~bntf350DAdkQuUgHH4ItwGASFe36QFRlxYBsJxijl28TaOiTO1JJeZ0zthVtkB4TbCA1Q4-lfgVgJbSkz6QCzp4U5j76dfW9xl9Nb64SnV8ZSFvDjM-qWeitp5258RmANXPLsYUGLFnfGnTyPZ9OJ2-6EbvUiqUONNyd9Qqfb1taP5sQxMmZ9lkJhXTAIuVHKuAe8zv-WBAOMJ1PHyFAETDdtn4mGzkeeBPuNnO8Mdf2WMu8cwxA__",
+            "color": "Siyah",
+            "id": "f1f7",
+            "location": "Istanbul"
+        }
+    ]
+}
